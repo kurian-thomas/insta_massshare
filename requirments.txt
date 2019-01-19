@@ -1,0 +1,3 @@
+python -m pip install -e git+https://github.com/LevPasha/Instagram-API-python.git#egg=InstagramAPI  
+
+
