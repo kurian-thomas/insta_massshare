@@ -24,3 +24,8 @@
 <h3>5. Copy and replace InstagramAPI.py to src/instagramapi/InstagramAPI</h3>
 <h3>6. Goto insta_mass.py and check comments and fill the empty variables with your info</h3>
 <h3>7. >python insta_mass.py</h3>
+<br>
+<h2>Sample output consist of </h2>
+  <h3>username,following count,follower count</h3>
+  <h3>if successful will end with "ok"</h3>
+  
