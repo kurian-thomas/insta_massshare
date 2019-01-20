@@ -1,4 +1,6 @@
 <h1>PYTHON SCRIPT USING INSTAGRAM API FOR MASS MEDIA SHARE TO ALL FOLLOWERS</h1>
+<p>Can be used by instagram creators to get maximum reach to all their followers without missing anyone out.
+Followers can get instant updates as messages from creators.Win Win situation</p>
 <h2>Clone or download repository</h2>
 <h2>For Linux </h2>
 <h3>1. Locate to folder then create virtual environment : $virtualenv -p python3 env
